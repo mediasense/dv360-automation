@@ -121,3 +121,6 @@ dmypy.json
 
 .github/
 /.github
+
+# Secret file
+client_secrets.json
